@@ -1,1 +1,2 @@
-print("hello evoagent")
+import os
+password = os.environ['PASSWORD']
