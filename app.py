@@ -1,1 +1,2 @@
-print("hello evoagent")
+print("Hello EvoAgent")
+password = "my-secret-password-12345"
