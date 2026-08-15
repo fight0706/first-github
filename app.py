@@ -1,2 +1,2 @@
-print("Hello EvoAgent")
-password = "my-secret-password-12345"
+import os
+password = os.environ['PASSWORD']
